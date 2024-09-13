@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,a2 as i}from"./chunks/framework.DLquJfNR.js";const m=JSON.parse('{"title":"用户端静态页面部署","description":"","frontmatter":{},"headers":[],"relativePath":"moss-static.md","filePath":"moss-static.md"}'),e={name:"moss-static.md"},n=i("",5),o=[n];function c(p,l,d,h,r,_){return t(),a("div",null,o)}const g=s(e,[["render",c]]);export{m as __pageData,g as default};
